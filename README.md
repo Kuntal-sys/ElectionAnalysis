@@ -23,24 +23,24 @@ Software: Python 3.7.6, Visual Studio Code 1.41.1
 
 Summary
 The analysis of the election shows that:
-# There were 369,711 total votes in the election.
-# The counties were:
+# 369,711 total votes casted in the election.
+# List of counties:
 1. Jefferson
 2. Denver
 3. Arapahoe
-# The counties results were:
+# Final results per counties:
 1. Jefferson received 10.5% and 38,855 total number of votes.
 2. Denver received 82.8% and 306,055 total number of votes.
 3. Arapahoe received 6.7% 24,801 total number of votes.
-# The countie with the largest turnout was:
+# Countie details with largest turnout :
 Denver received 82.8% and 306,055 total number of votes.
-# The candidates were:
+# List of candidates:
 1. Charles Casper Stockham
 2. Diana DeGette
 3. Raymon Anthony Doane
-# The candidate results were:
+# Final result per candidates:
 1. Charles Casper Stockham received 23% and 85,213 total number of votes.
 2. Diana DeGette received 73.8% and 272,892 total number of votes.
 3. Raymon Anthony Doane received 3.1% and 11,606 total number of votes.
-# The winner of the election was:
+# Details for winner of the election:
 Diana DeGette received 73.8% and 272,892 total number of votes.
