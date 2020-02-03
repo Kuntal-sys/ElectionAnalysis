@@ -25,9 +25,9 @@ Summary
 The analysis of the election shows that:
 # There were 369,711 total votes in the election.
 # The counties were:
-Jefferson
-Denver
-Arapahoe
+1. Jefferson
+2. Denver
+3. Arapahoe
 # The counties results were:
 Jefferson received 10.5% of the vote and 38,855 number of votes.
 Denver received 82.8% of the vote and 306,055 number of votes.
